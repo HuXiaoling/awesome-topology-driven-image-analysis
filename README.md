@@ -17,4 +17,4 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
   - [Applications](#applications)
 - [Tutorials](#tutorials)
 
-Maintainers - [Xiaoling Hu](https://github.com/HuXiaoling)
+Maintainers - [Xiaoling Hu](https://github.com/HuXiaoling), [Meilong Xu](https://github.com/Melon-Xu)
