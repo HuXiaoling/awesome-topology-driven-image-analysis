@@ -21,7 +21,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ### Persistent homology
 ### Discrete Morse theory
 
-### Software
+## Software
 
 ## Papers
 ### Segmentation
