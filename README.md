@@ -6,6 +6,7 @@ A curated list of resources for topology-driven image analysis, inspired by [awe
 Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topology-driven-image-analysis/pulls) to add papers.
 
 ## Table of Contents
+- [Tools](#tools)
 - [Papers](#papers)
   - [Segmentation](#segmentation)
   - [Other Topics](#other)
