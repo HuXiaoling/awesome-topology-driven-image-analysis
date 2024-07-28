@@ -9,6 +9,8 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 - [Tools](#tools)
 - [Papers](#papers)
   - [Segmentation](#segmentation)
+  - [Classification](#classification)
+  - [Registration](#registration)
   - [Other Topics](#other)
 - [Courses](#courses)
 - [Books](#books)
@@ -20,5 +22,8 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 
 ## Tools
 ### Persistent homology
+### Discrete Morse theory
+
+## Books
 
 Maintainers - [Xiaoling Hu](https://github.com/HuXiaoling), [Meilong Xu](https://github.com/Melon-Xu)
