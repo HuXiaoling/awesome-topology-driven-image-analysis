@@ -33,4 +33,4 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 
 ## Workshops
 
-Maintainers - [Xiaoling Hu](https://github.com/HuXiaoling), [Meilong Xu](https://github.com/Melon-Xu)
+Maintainers - [Xiaoling Hu](https://github.com/HuXiaoling)
