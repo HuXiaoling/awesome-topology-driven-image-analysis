@@ -6,6 +6,7 @@ A curated list of resources for topology-driven image analysis, inspired by [awe
 Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topology-driven-image-analysis/pulls) or send me email (xihu3@mgh.harvard.edu) to contribute.
 
 ## Table of Contents
+- [Books](#books)
 - [Tools](#tools)
 - [Software](#software)
 - [Papers](#papers)
@@ -13,10 +14,10 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
   - [Classification](#classification)
   - [Registration](#registration)
   - [Other Topics](#other)
-- [Books](#books)
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
-  
+## Books
+
 ## Tools
 ### [Persistent homology](https://en.wikipedia.org/wiki/Persistent_homology)
 ### [Morse theory](https://en.wikipedia.org/wiki/Morse_theory)
@@ -27,8 +28,6 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ### Segmentation
 ### Classification
 ### Registration
-
-## Books
 
 ## Tutorials
 
