@@ -18,8 +18,8 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 - [Workshops](#workshops)
   
 ## Tools
-### Persistent homology
-### Discrete Morse theory
+### [Persistent homology](https://en.wikipedia.org/wiki/Persistent_homology)
+### [Morse theory](https://en.wikipedia.org/wiki/Morse_theory)
 
 ## Software
 
