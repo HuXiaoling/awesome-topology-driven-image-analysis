@@ -35,7 +35,9 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ### Registration
 
 ## Tutorials
+* [Topology-Driven Image Analysis](https://topology-miccai.github.io/)
 
 ## Workshops
+* [The First Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)](https://topology-miccai.github.io/First_TGI_2024.html)
 
 Maintainers - [Xiaoling Hu](https://github.com/HuXiaoling)
