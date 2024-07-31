@@ -34,6 +34,9 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * James R. Clough, Nicholas Byrne, Ilkay Oksuz, Veronika A. Zimmer, Julia A. Schnabel, Andrew P. King. "A topological loss function for deep-learning based image segmentation using persistent homology." TPAMI'2020. [[Paper](https://arxiv.org/pdf/1910.01877)]
 ### Classification
 ### Registration
+### Uncertainty Estimation
+* Xiaoling Hu, Dimitris Samaras, and Chao Chen. "Learning probabilistic topological representations using discrete morse theory." ICLR'2023. [[Paper](https://openreview.net/pdf?id=cXMHQD-xQas)]
+* Saumya Gupta, Yikai Zhang, Xiaoling Hu, Prateek Prasanna, and Chao Chen. "Topology-aware uncertainty for image segmentation." NeurIPS'2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/19ded4cfc36a7feb7fce975393d378fd-Paper-Conference.pdf)]
 
 ## Tutorials
 * [Topology-Driven Image Analysis](https://topology-miccai.github.io/)
