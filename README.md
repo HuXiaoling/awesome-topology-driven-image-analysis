@@ -42,6 +42,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * Saumya Gupta, Yikai Zhang, Xiaoling Hu, Prateek Prasanna, and Chao Chen. "Topology-aware uncertainty for image segmentation." NeurIPS'2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/19ded4cfc36a7feb7fce975393d378fd-Paper-Conference.pdf)]
 ### Generative Models
 * Fan Wang, Huidong Liu, Dimitris Samaras, and Chao Chen. "Topogan: A topology-aware generative adversarial network." ECCV'2020. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)]
+* Shahira Abousamra, Rajarsi Gupta, Tahsin Kurc, Dimitris Samaras, Joel Saltz, and Chao Chen. "Topology-guided multi-class cell context generation for digital pathology." CVPR'2023. [[Paper](https://arxiv.org/pdf/2304.02255)]
 
 ## Tutorials
 * [Topology-Driven Image Analysis](https://topology-miccai.github.io/)
