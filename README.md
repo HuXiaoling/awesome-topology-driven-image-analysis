@@ -39,6 +39,8 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * James R. Clough, Nicholas Byrne, Ilkay Oksuz, Veronika A. Zimmer, Julia A. Schnabel, Andrew P. King. "A topological loss function for deep-learning based image segmentation using persistent homology." TPAMI'2020. [[Paper](https://arxiv.org/pdf/1910.01877)]
   
 ### Classification
+* Fan Wang, Saarthak Kapse, Steven Liu, Prateek Prasanna, and Chao Chen. "TopoTxR: a topological biomarker for predicting treatment response in breast cancer." MICCAI'2021. [[Paper](https://arxiv.org/pdf/2105.06049)]
+* Yaopeng Peng, Hongxiao Wang, Milan Sonka, and Danny Z. Chen. "PHG-Net: Persistent Homology Guided Medical Image Classification." WACV'2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Peng_PHG-Net_Persistent_Homology_Guided_Medical_Image_Classification_WACV_2024_paper.pdf)]
 
 ### Detection
 * Shahira Abousamra, David Belinsky, John Van Arnam, Felicia Allard, Eric Yee, Rajarsi Gupta, Tahsin Kurc, Dimitris Samaras, Joel Saltz, and Chao Chen. "Multi-class cell detection using spatial context representation." ICCV'2021. [[Paper](https://arxiv.org/pdf/2110.04886)]
