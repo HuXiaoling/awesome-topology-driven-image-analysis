@@ -12,7 +12,9 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 - [Papers](#papers)
   - [Segmentation](#segmentation)
   - [Classification](#classification)
+  - [Detection](#detection)
   - [Registration](#registration)
+  - [Counting](#counting)
   - [Uncertainty Estimation](#uncertainty-estimation)
   - [Generative Models](#generative-models)
   - [Other Topics](#other-topics)
@@ -35,14 +37,26 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ### Segmentation
 * Xiaoling Hu, Fuxin Li, Dimitris Samaras, and Chao Chen. "Topology-preserving deep image segmentation." NeurIPS'2019. [[Paper](https://proceedings.neurips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)]
 * James R. Clough, Nicholas Byrne, Ilkay Oksuz, Veronika A. Zimmer, Julia A. Schnabel, Andrew P. King. "A topological loss function for deep-learning based image segmentation using persistent homology." TPAMI'2020. [[Paper](https://arxiv.org/pdf/1910.01877)]
+  
 ### Classification
+
+### Detection
+* Shahira Abousamra, David Belinsky, John Van Arnam, Felicia Allard, Eric Yee, Rajarsi Gupta, Tahsin Kurc, Dimitris Samaras, Joel Saltz, and Chao Chen. "Multi-class cell detection using spatial context representation." ICCV'2021. [[Paper](https://arxiv.org/pdf/2110.04886)]
+
 ### Registration
+
+### Counting
+* Shahira Abousamra, Minh Hoai, Dimitris Samaras, and Chao Chen. "Localization in the crowd with topological constraints." AAAI'2021. [[Paper](https://arxiv.org/pdf/2012.12482)]
+
 ### Uncertainty Estimation
 * Xiaoling Hu, Dimitris Samaras, and Chao Chen. "Learning probabilistic topological representations using discrete morse theory." ICLR'2023. [[Paper](https://openreview.net/pdf?id=cXMHQD-xQas)]
 * Saumya Gupta, Yikai Zhang, Xiaoling Hu, Prateek Prasanna, and Chao Chen. "Topology-aware uncertainty for image segmentation." NeurIPS'2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/19ded4cfc36a7feb7fce975393d378fd-Paper-Conference.pdf)]
+  
 ### Generative Models
 * Fan Wang, Huidong Liu, Dimitris Samaras, and Chao Chen. "Topogan: A topology-aware generative adversarial network." ECCV'2020. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)]
 * Shahira Abousamra, Rajarsi Gupta, Tahsin Kurc, Dimitris Samaras, Joel Saltz, and Chao Chen. "Topology-guided multi-class cell context generation for digital pathology." CVPR'2023. [[Paper](https://arxiv.org/pdf/2304.02255)]
+
+### Other Topics
 
 ## Tutorials
 * [Topology-Driven Image Analysis](https://topology-miccai.github.io/)
