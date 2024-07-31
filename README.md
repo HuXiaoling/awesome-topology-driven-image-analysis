@@ -30,7 +30,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 
 ## Papers
 ### Segmentation
-* Hu, Xiaoling, Fuxin Li, Dimitris Samaras, and Chao Chen. "Topology-preserving deep image segmentation." Advances in neural information processing systems 32 (2019). [[Paper](https://proceedings.neurips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)]
+* Xiaoling Hu, Fuxin Li, Dimitris Samaras, and Chao Chen. "Topology-preserving deep image segmentation." Advances in neural information processing systems 32 (2019). [[Paper](https://proceedings.neurips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)]
 ### Classification
 ### Registration
 
