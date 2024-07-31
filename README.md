@@ -17,7 +17,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
 ## Books
-* [Computational Topology. An Introduction]([http://yusu.belkin-wang.org/CTDAbook-DeyWang.pdf](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf)) by [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/)
+* [Computational Topology. An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf) by [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/)
 * [Computational Topology for Data Analysis](http://yusu.belkin-wang.org/CTDAbook-DeyWang.pdf) by [Tamal Krishna Dey](https://www.cs.purdue.edu/homes/tamaldey/), and [Yusu Wang](http://yusu.belkin-wang.org/)
 
 ## Tools
