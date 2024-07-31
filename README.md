@@ -25,6 +25,9 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ### [Morse theory](https://en.wikipedia.org/wiki/Morse_theory)
 
 ## Software
+* [GUDHI library](https://gudhi.inria.fr/)
+* [Ripser](https://ripser.scikit-tda.org/en/latest/)
+* [Scikit-TDA](https://github.com/scikit-tda)
 
 ## Papers
 ### Segmentation
