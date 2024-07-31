@@ -13,9 +13,9 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
   - [Segmentation](#segmentation)
   - [Classification](#classification)
   - [Registration](#registration)
-  - [Uncertainty Estimation](#uncertainty_estimation)
-  - [Generative Models](#generative_models)
-  - [Other Topics](#other)
+  - [Uncertainty Estimation](#uncertainty-estimation)
+  - [Generative Models](#generative-models)
+  - [Other Topics](#other-topics)
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
 ## Books
