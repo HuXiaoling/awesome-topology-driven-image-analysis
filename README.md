@@ -13,6 +13,8 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
   - [Segmentation](#segmentation)
   - [Classification](#classification)
   - [Registration](#registration)
+  - [Uncertainty Estimation](#uncertainty)
+  - [Generative Models](#generative)
   - [Other Topics](#other)
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
@@ -38,6 +40,8 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ### Uncertainty Estimation
 * Xiaoling Hu, Dimitris Samaras, and Chao Chen. "Learning probabilistic topological representations using discrete morse theory." ICLR'2023. [[Paper](https://openreview.net/pdf?id=cXMHQD-xQas)]
 * Saumya Gupta, Yikai Zhang, Xiaoling Hu, Prateek Prasanna, and Chao Chen. "Topology-aware uncertainty for image segmentation." NeurIPS'2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/19ded4cfc36a7feb7fce975393d378fd-Paper-Conference.pdf)]
+### Generative Models
+* Fan Wang, Huidong Liu, Dimitris Samaras, and Chao Chen. "Topogan: A topology-aware generative adversarial network." ECCV'2020. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)]
 
 ## Tutorials
 * [Topology-Driven Image Analysis](https://topology-miccai.github.io/)
