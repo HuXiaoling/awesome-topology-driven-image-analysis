@@ -20,8 +20,8 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * [Computational Topology for Data Analysis](http://yusu.belkin-wang.org/CTDAbook-DeyWang.pdf) by [Tamal Krishna Dey](https://www.cs.purdue.edu/homes/tamaldey/), and [Yusu Wang](http://yusu.belkin-wang.org/)
 
 ## Tools
-### [Persistent homology](https://en.wikipedia.org/wiki/Persistent_homology)
-### [Morse theory](https://en.wikipedia.org/wiki/Morse_theory)
+* [Persistent homology](https://en.wikipedia.org/wiki/Persistent_homology)
+* [Morse theory](https://en.wikipedia.org/wiki/Morse_theory)
 
 ## Software
 * [GUDHI library](https://gudhi.inria.fr/)
