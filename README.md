@@ -36,6 +36,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ## Papers
 ### Segmentation
 * Xiaoling Hu, Fuxin Li, Dimitris Samaras, and Chao Chen. "Topology-preserving deep image segmentation." NeurIPS'2019. [[Paper](https://proceedings.neurips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)]
+* Banerjee, Samik, Lucas Magee, Dingkang Wang, Xu Li, Bing-Xing Huo, Jaikishan Jayakumar, Katherine Matho et al. "Semantic segmentation of microscopic neuroanatomical data by combining topological priors with encoder–decoder deep networks."  NMI'2020. [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8486300/)]
 * James R. Clough, Nicholas Byrne, Ilkay Oksuz, Veronika A. Zimmer, Julia A. Schnabel, Andrew P. King. "A topological loss function for deep-learning based image segmentation using persistent homology." TPAMI'2020. [[Paper](https://arxiv.org/pdf/1910.01877)]
 * Xiaoling Hu, Yusu Wang, Li Fuxin, Dimitris Samaras, and Chao Chen. "Topology-aware segmentation using discrete morse theory." ICLR'2021. [[Paper](https://openreview.net/pdf?id=LGgdb4TS4Z)].
 * Xiaoling Hu. "Structure-aware image segmentation with homotopy warping." NeurIPS'2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/98143953a7fd1319175b491888fc8df5-Paper-Conference.pdf)]
