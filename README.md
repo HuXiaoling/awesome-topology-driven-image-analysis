@@ -37,6 +37,10 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ### Segmentation
 * Xiaoling Hu, Fuxin Li, Dimitris Samaras, and Chao Chen. "Topology-preserving deep image segmentation." NeurIPS'2019. [[Paper](https://proceedings.neurips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)]
 * James R. Clough, Nicholas Byrne, Ilkay Oksuz, Veronika A. Zimmer, Julia A. Schnabel, Andrew P. King. "A topological loss function for deep-learning based image segmentation using persistent homology." TPAMI'2020. [[Paper](https://arxiv.org/pdf/1910.01877)]
+* Xiaoling Hu, Yusu Wang, Li Fuxin, Dimitris Samaras, and Chao Chen. "Topology-aware segmentation using discrete morse theory." ICLR'2021. [[Paper](https://openreview.net/pdf?id=LGgdb4TS4Z)].
+* Xiaoling Hu. "Structure-aware image segmentation with homotopy warping." NeurIPS'2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/98143953a7fd1319175b491888fc8df5-Paper-Conference.pdf)]
+* Saumya Gupta, Xiaoling Hu, James Kaan, Michael Jin, Mutshipay Mpoy, Katherine Chung, Gagandeep Singh et al. "Learning topological interactions for multi-class medical image segmentation." ECCV'2022. [[Paper](https://arxiv.org/pdf/2207.09654)]
+* Meilong Xu, Xiaoling Hu, Saumya Gupta, Shahira Abousamra, and Chao Chen. "TopoSemiSeg: Enforcing Topological Consistency for Semi-Supervised Segmentation of Histopathology Images." ECCV'2024. [[Paper](https://arxiv.org/pdf/2311.16447)]
 * Qian Wu, Yufei Chen, Wei Liu, Xiaodong Yue, and Xiahai Zhuang. "Deep Closing: Enhancing Topological Connectivity in Medical Tubular Segmentation." TMI'2024 [[Paper](https://ieeexplore.ieee.org/abstract/document/10540037?casa_token=FOES6ZemAOkAAAAA:r3lRafFgWh08fThQhiOwd6orIuuKG_G4GtzhCRulhVv9bBKTjh9mTJ9UjQs-QFw1ymPtsU9M67g)]
 ### Classification
 * Fan Wang, Saarthak Kapse, Steven Liu, Prateek Prasanna, and Chao Chen. "TopoTxR: a topological biomarker for predicting treatment response in breast cancer." MICCAI'2021. [[Paper](https://arxiv.org/pdf/2105.06049)]
