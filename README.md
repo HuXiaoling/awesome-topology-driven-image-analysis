@@ -65,6 +65,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ### Generative Models
 * Fan Wang, Huidong Liu, Dimitris Samaras, and Chao Chen. "Topogan: A topology-aware generative adversarial network." ECCV'2020. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)]
 * Shahira Abousamra, Rajarsi Gupta, Tahsin Kurc, Dimitris Samaras, Joel Saltz, and Chao Chen. "Topology-guided multi-class cell context generation for digital pathology." CVPR'2023. [[Paper](https://arxiv.org/pdf/2304.02255)]
+* Meilong Xu, Saumya Gupta, Xiaoling Hu, Chen Li, Shahira Abousamra, Dimitris Samaras, Prateek Prasanna, and Chao Chen. "TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model." arXiv preprint arXiv:2412.06011 (2024). [[Paper](https://arxiv.org/pdf/2412.06011)]
 
 ### Other Topics
 
