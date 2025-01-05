@@ -9,6 +9,8 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 - [Books](#books)
 - [Tools](#tools)
 - [Software](#software)
+- [Tutorials](#tutorials)
+- [Workshops](#workshops)
 - [Papers](#papers)
   - [Segmentation](#segmentation)
   - [Classification](#classification)
@@ -19,8 +21,6 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
   - [Uncertainty Estimation](#uncertainty-estimation)
   - [Generative Models](#generative-models)
   - [Other Topics](#other-topics)
-- [Tutorials](#tutorials)
-- [Workshops](#workshops)
   
 ## Books
 * [Computational Topology. An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf) by [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/)
@@ -34,6 +34,12 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * [GUDHI library](https://gudhi.inria.fr/)
 * [Ripser](https://ripser.scikit-tda.org/en/latest/)
 * [Scikit-TDA](https://github.com/scikit-tda)
+
+## Tutorials
+* [Topology-Driven Image Analysis](https://topology-miccai.github.io/)
+
+## Workshops
+* [The First Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)](https://topology-miccai.github.io/First_TGI_2024.html)
 
 ## Papers
 ### Segmentation
@@ -98,11 +104,5 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * Fan Wang, Hubert Wagner, and Chao Chen. "GPU Computation of the Euler Characteristic Curve for Imaging Data." SoCG'2022. [[Paper](https://arxiv.org/pdf/2203.09087)]
 * Theodore Papamarkou, Tolga Birdal, Michael Bronstein, Gunnar Carlsson, Justin Curry, Yue Gao, Mustafa Hajij et al. "Position: Topological Deep Learning is the New Frontier for Relational Learning." arXiv'2024. [[Paper](https://scholar9.com/publication/15b1964641a8fa968b2e1f5d42b5a8bf.pdf)]
 * Chia-Chia Chen, and Chi-Han Peng. "Topology-Preserving Downsampling of Binary Images." ECCV'2024. [[Paper](https://arxiv.org/pdf/2407.17786)]
-
-## Tutorials
-* [Topology-Driven Image Analysis](https://topology-miccai.github.io/)
-
-## Workshops
-* [The First Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)](https://topology-miccai.github.io/First_TGI_2024.html)
 
 Maintainers - [Xiaoling Hu](https://github.com/HuXiaoling)
