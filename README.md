@@ -14,6 +14,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
   - [Classification](#classification)
   - [Detection](#detection)
   - [Registration](#registration)
+  - [Reconstruction](#reconstruction)
   - [Counting](#counting)
   - [Uncertainty Estimation](#uncertainty-estimation)
   - [Generative Models](#generative-models)
@@ -36,6 +37,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ## Papers
 ### Segmentation
 * Xiaoling Hu, Fuxin Li, Dimitris Samaras, and Chao Chen. "Topology-preserving deep image segmentation." NeurIPS'2019. [[Paper](https://proceedings.neurips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)]
+* Zuoyue Li, Jan Dirk Wegner, and Aurélien Lucchi. "Topological map extraction from overhead images." ICCV'2019. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Topological_Map_Extraction_From_Overhead_Images_ICCV_2019_paper.pdf)]
 * Banerjee, Samik, Lucas Magee, Dingkang Wang, Xu Li, Bing-Xing Huo, Jaikishan Jayakumar, Katherine Matho et al. "Semantic segmentation of microscopic neuroanatomical data by combining topological priors with encoder–decoder deep networks."  NMI'2020. [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8486300/)]
 * Seung Yeon Shin, Sungwon Lee, Daniel Elton, James L. Gulley, and Ronald M. Summers. "Deep small bowel segmentation with cylindrical topological constraints." MICCAI'2020. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9107797/)]
 * James R. Clough, Nicholas Byrne, Ilkay Oksuz, Veronika A. Zimmer, Julia A. Schnabel, Andrew P. King. "A topological loss function for deep-learning based image segmentation using persistent homology." TPAMI'2020. [[Paper](https://arxiv.org/pdf/1910.01877)]
@@ -52,6 +54,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * Meilong Xu, Xiaoling Hu, Saumya Gupta, Shahira Abousamra, and Chao Chen. "TopoSemiSeg: Enforcing Topological Consistency for Semi-Supervised Segmentation of Histopathology Images." ECCV'2024. [[Paper](https://arxiv.org/pdf/2311.16447)]
 * Qian Wu, Yufei Chen, Wei Liu, Xiaodong Yue, and Xiahai Zhuang. "Deep Closing: Enhancing Topological Connectivity in Medical Tubular Segmentation." TMI'2024 [[Paper](https://ieeexplore.ieee.org/abstract/document/10540037?casa_token=FOES6ZemAOkAAAAA:r3lRafFgWh08fThQhiOwd6orIuuKG_G4GtzhCRulhVv9bBKTjh9mTJ9UjQs-QFw1ymPtsU9M67g)]
 * Alexander H. Berger, Laurin Lux, Nico Stucki, Vincent Bürgin, Suprosanna Shit, Anna Banaszak, Daniel Rueckert, Ulrich Bauer, and Johannes C. Paetzold. "Topologically faithful multi-class segmentation in medical images." MICCAI'2024. [[Paper](https://arxiv.org/pdf/2403.11001)]
+  
 ### Classification
 * Fan Wang, Saarthak Kapse, Steven Liu, Prateek Prasanna, and Chao Chen. "TopoTxR: a topological biomarker for predicting treatment response in breast cancer." MICCAI'2021. [[Paper](https://arxiv.org/pdf/2105.06049)]
 * Yaopeng Peng, Hongxiao Wang, Milan Sonka, and Danny Z. Chen. "PHG-Net: Persistent Homology Guided Medical Image Classification." WACV'2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Peng_PHG-Net_Persistent_Homology_Guided_Medical_Image_Classification_WACV_2024_paper.pdf)]
@@ -60,6 +63,9 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * Shahira Abousamra, David Belinsky, John Van Arnam, Felicia Allard, Eric Yee, Rajarsi Gupta, Tahsin Kurc, Dimitris Samaras, Joel Saltz, and Chao Chen. "Multi-class cell detection using spatial context representation." ICCV'2021. [[Paper](https://arxiv.org/pdf/2110.04886)]
 
 ### Registration
+
+### Reconstruction
+* Junyi Pan, Xiaoguang Han, Weikai Chen, Jiapeng Tang, and Kui Jia. "Deep mesh reconstruction from single rgb images via topology modification networks." ICCV'2019. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pan_Deep_Mesh_Reconstruction_From_Single_RGB_Images_via_Topology_Modification_ICCV_2019_paper.pdf)]
 
 ### Counting
 * Shahira Abousamra, Minh Hoai, Dimitris Samaras, and Chao Chen. "Localization in the crowd with topological constraints." AAAI'2021. [[Paper](https://arxiv.org/pdf/2012.12482)]
