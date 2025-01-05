@@ -21,6 +21,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
   - [Other Topics](#other-topics)
 - [Tutorials](#tutorials)
 - [Workshops](#workshops)
+  
 ## Books
 * [Computational Topology. An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf) by [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/)
 * [Computational Topology for Data Analysis](http://yusu.belkin-wang.org/CTDAbook-DeyWang.pdf) by [Tamal Krishna Dey](https://www.cs.purdue.edu/homes/tamaldey/), and [Yusu Wang](http://yusu.belkin-wang.org/)
@@ -47,25 +48,38 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * Oner, Doruk, Mateusz Koziński, Leonardo Citraro, Nathan C. Dadap, Alexandra G. Konings, and Pascal Fua. "Promoting connectivity of network-like structures by enforcing region separation." TPAMI'2021. [[Paper](https://arxiv.org/pdf/2009.07011)]
 * Xiaoling Hu. "Structure-aware image segmentation with homotopy warping." NeurIPS'2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/98143953a7fd1319175b491888fc8df5-Paper-Conference.pdf)]
 * Saumya Gupta, Xiaoling Hu, James Kaan, Michael Jin, Mutshipay Mpoy, Katherine Chung, Gagandeep Singh et al. "Learning topological interactions for multi-class medical image segmentation." ECCV'2022. [[Paper](https://arxiv.org/pdf/2207.09654)]
+* Tianyi Shi, Nicolas Boutry, Yongchao Xu, and Thierry Géraud. "Local intensity order transformation for robust curvilinear object segmentation." TIP'2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9733198)]
+* Nick Byrne, James R. Clough, Israel Valverde, Giovanni Montana, and Andrew P. King. "A persistent homology-based topological loss for CNN-based multiclass segmentation of CMR." TMI'2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9872052)]
+* Haotian Wang, Min Xian, and Aleksandar Vakanski. "Ta-net: Topology-aware network for gland segmentation." WACV'2022. [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_TA-Net_Topology-Aware_Network_for_Gland_Segmentation_WACV_2022_paper.pdf)]
 * Nico Stucki, Johannes C. Paetzold, Suprosanna Shit, Bjoern Menze, and Ulrich Bauer. "Topologically faithful image segmentation via induced matching of persistence barcodes." ICML'2023. [[Paper](https://proceedings.mlr.press/v202/stucki23a/stucki23a.pdf)]
 * Yaolei Qi, Yuting He, Xiaoming Qi, Yuan Zhang, and Guanyu Yang. "Dynamic snake convolution based on topological geometric constraints for tubular structure segmentation." ICCV'2023. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Qi_Dynamic_Snake_Convolution_Based_on_Topological_Geometric_Constraints_for_Tubular_ICCV_2023_paper.pdf)]
 * Hongliang He, Jun Wang, Pengxu Wei, Fan Xu, Xiangyang Ji, Chang Liu, and Jie Chen. "Toposeg: Topology-aware nuclear instance segmentation." CVPR'2023. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_TopoSeg_Topology-Aware_Nuclear_Instance_Segmentation_ICCV_2023_paper.pdf)]
+* Ziyun Yang, and Sina Farsiu. "Directional connectivity-based segmentation of medical images." CVPR'2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Directional_Connectivity-Based_Segmentation_of_Medical_Images_CVPR_2023_paper.pdf)]
 * Manxi Lin, Kilian Zepf, Anders Nymark Christensen, Zahra Bashir, Morten Bo Søndergaard Svendsen, Martin Tolsgaard, and Aasa Feragen. "Dtu-net: Learning topological similarity for curvilinear structure segmentation." IPMI'2023. [[Paper](https://arxiv.org/pdf/2205.11115)]
+* Liu Li, Qiang Ma, Cheng Ouyang, Zeju Li, Qingjie Meng, Weitong Zhang, Mengyun Qiao et al. "Robust segmentation via topology violation detection and feature synthesis." MICCAI'2023. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_7)]
 * Meilong Xu, Xiaoling Hu, Saumya Gupta, Shahira Abousamra, and Chao Chen. "TopoSemiSeg: Enforcing Topological Consistency for Semi-Supervised Segmentation of Histopathology Images." ECCV'2024. [[Paper](https://arxiv.org/pdf/2311.16447)]
+* Jiaxing Huang, Yanfeng Zhou, Yaoru Luo, Guole Liu, Heng Guo, and Ge Yang. "Representing Topological Self-Similarity Using Fractal Feature Maps for Accurate Segmentation of Tubular Structures." ECCV'24. [[Paper](https://arxiv.org/pdf/2407.14754)]
 * Qian Wu, Yufei Chen, Wei Liu, Xiaodong Yue, and Xiahai Zhuang. "Deep Closing: Enhancing Topological Connectivity in Medical Tubular Segmentation." TMI'2024 [[Paper](https://ieeexplore.ieee.org/abstract/document/10540037?casa_token=FOES6ZemAOkAAAAA:r3lRafFgWh08fThQhiOwd6orIuuKG_G4GtzhCRulhVv9bBKTjh9mTJ9UjQs-QFw1ymPtsU9M67g)]
 * Alexander H. Berger, Laurin Lux, Nico Stucki, Vincent Bürgin, Suprosanna Shit, Anna Banaszak, Daniel Rueckert, Ulrich Bauer, and Johannes C. Paetzold. "Topologically faithful multi-class segmentation in medical images." MICCAI'2024. [[Paper](https://arxiv.org/pdf/2403.11001)]
+* Pengcheng Shi, Jiesi Hu, Yanwu Yang, Zilve Gao, Wei Liu, and Ting Ma. "Centerline boundary dice loss for vascular segmentation." MICCAI'2024. [[Paper](https://arxiv.org/pdf/2407.01517)]
+* Liu Li, Hanchun Wang, Matthew Baugh, Qiang Ma, Weitong Zhang, Cheng Ouyang, Daniel Rueckert, and Bernhard Kainz. "Universal Topology Refinement for Medical Image Segmentation with Polynomial Feature Synthesis." MICCAI'2024. [[Paper](https://arxiv.org/pdf/2409.09796)]
+* Madeleine K. Wyburd, Nicola K. Dinsdale, Mark Jenkinson, and Ana IL Namburete. "Anatomically plausible segmentations: Explicitly preserving topology through prior deformations." MedIA'2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841524001476)]
   
 ### Classification
 * Fan Wang, Saarthak Kapse, Steven Liu, Prateek Prasanna, and Chao Chen. "TopoTxR: a topological biomarker for predicting treatment response in breast cancer." MICCAI'2021. [[Paper](https://arxiv.org/pdf/2105.06049)]
 * Yaopeng Peng, Hongxiao Wang, Milan Sonka, and Danny Z. Chen. "PHG-Net: Persistent Homology Guided Medical Image Classification." WACV'2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Peng_PHG-Net_Persistent_Homology_Guided_Medical_Image_Classification_WACV_2024_paper.pdf)]
+* Fan Wang, Zhilin Zou, Nicole Sakla, Luke Partyka, Nil Rawal, Gagandeep Singh, Wei Zhao et al. "TopoTxR: A topology-guided deep convolutional network for breast parenchyma learning on DCE-MRIs." MedIA'2025. [[Paper](https://arxiv.org/pdf/2411.03464)]
 
 ### Detection
 * Shahira Abousamra, David Belinsky, John Van Arnam, Felicia Allard, Eric Yee, Rajarsi Gupta, Tahsin Kurc, Dimitris Samaras, Joel Saltz, and Chao Chen. "Multi-class cell detection using spatial context representation." ICCV'2021. [[Paper](https://arxiv.org/pdf/2110.04886)]
 
 ### Registration
+* Madeleine K. Wyburd, Nicola K. Dinsdale, Ana IL Namburete, and Mark Jenkinson. "TEDS-Net: enforcing diffeomorphisms in spatial transformers to guarantee topology preservation in segmentations." MICCAI'2021. [[Paper](https://arxiv.org/pdf/2107.13542)]
+* Yohai Reani, and Omer Bobrowski. "Cycle registration in persistent homology with applications in topological bootstrap." TPAMI'2022. [[Paper](https://arxiv.org/pdf/2101.00698)]
 
 ### Reconstruction
 * Junyi Pan, Xiaoguang Han, Weikai Chen, Jiapeng Tang, and Kui Jia. "Deep mesh reconstruction from single rgb images via topology modification networks." ICCV'2019. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pan_Deep_Mesh_Reconstruction_From_Single_RGB_Images_via_Topology_Modification_ICCV_2019_paper.pdf)]
+* Dominik JE Waibel, Scott Atwell, Matthias Meier, Carsten Marr, and Bastian Rieck. "Capturing shape information with multi-scale topological loss terms for 3d reconstruction." MICCAI'2022. [[Paper](https://arxiv.org/pdf/2203.01703)]
 
 ### Counting
 * Shahira Abousamra, Minh Hoai, Dimitris Samaras, and Chao Chen. "Localization in the crowd with topological constraints." AAAI'2021. [[Paper](https://arxiv.org/pdf/2012.12482)]
@@ -80,6 +94,10 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * Meilong Xu, Saumya Gupta, Xiaoling Hu, Chen Li, Shahira Abousamra, Dimitris Samaras, Prateek Prasanna, and Chao Chen. "TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model." arXiv'2024. [[Paper](https://arxiv.org/pdf/2412.06011)]
 
 ### Other Topics
+* Mathieu Carriere, and Andrew Blumberg. "Multiparameter persistence image for topological machine learning." NeurIPS'2020. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/fdff71fcab656abfbefaabecab1a7f6d-Paper.pdf)]
+* Fan Wang, Hubert Wagner, and Chao Chen. "GPU Computation of the Euler Characteristic Curve for Imaging Data." SoCG'2022. [[Paper](https://arxiv.org/pdf/2203.09087)]
+* Theodore Papamarkou, Tolga Birdal, Michael Bronstein, Gunnar Carlsson, Justin Curry, Yue Gao, Mustafa Hajij et al. "Position: Topological Deep Learning is the New Frontier for Relational Learning." arXiv'2024. [[Paper](https://scholar9.com/publication/15b1964641a8fa968b2e1f5d42b5a8bf.pdf)]
+* Chia-Chia Chen, and Chi-Han Peng. "Topology-Preserving Downsampling of Binary Images." ECCV'2024. [[Paper](https://arxiv.org/pdf/2407.17786)]
 
 ## Tutorials
 * [Topology-Driven Image Analysis](https://topology-miccai.github.io/)
