@@ -103,7 +103,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 ### Generative Models
 * Fan Wang, Huidong Liu, Dimitris Samaras, and Chao Chen. "Topogan: A topology-aware generative adversarial network." ECCV'2020. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)]
 * Shahira Abousamra, Rajarsi Gupta, Tahsin Kurc, Dimitris Samaras, Joel Saltz, and Chao Chen. "Topology-guided multi-class cell context generation for digital pathology." CVPR'2023. [[Paper](https://arxiv.org/pdf/2304.02255)]
-* Meilong Xu, Saumya Gupta, Xiaoling Hu, Chen Li, Shahira Abousamra, Dimitris Samaras, Prateek Prasanna, and Chao Chen. "TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model." arXiv'2024. [[Paper](https://arxiv.org/pdf/2412.06011)]
+* Meilong Xu, Saumya Gupta, Xiaoling Hu, Chen Li, Shahira Abousamra, Dimitris Samaras, Prateek Prasanna, and Chao Chen. "TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model." CVPR'2025. [[Paper](https://arxiv.org/pdf/2412.06011)]
 
 ### Other Topics
 * Mathieu Carriere, and Andrew Blumberg. "Multiparameter persistence image for topological machine learning." NeurIPS'2020. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/fdff71fcab656abfbefaabecab1a7f6d-Paper.pdf)]
