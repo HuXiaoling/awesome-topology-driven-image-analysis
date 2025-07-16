@@ -40,6 +40,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 
 ## Workshops
 * [The First Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)](https://topology-miccai.github.io/First_TGI_2024.html)
+* [Topology- and Graph-Informed Imaging Informatics (TGI) Track at 7th Workshop on GRaphs in biomedicAl Image anaLysis](https://topology-miccai.github.io/TGI_2025.html)
 
 ## Papers
 ### Segmentation
