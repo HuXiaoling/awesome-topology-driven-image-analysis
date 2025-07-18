@@ -76,6 +76,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * Cesar Acebes, Abdel Hakim Moustafa, Oscar Camara, and Adrian Galdran. "The Centerline-Cross Entropy Loss for Vessel-Like Structure Segmentation: Better Topology Consistency Without Sacrificing Accuracy." MICCAI'2024. [[Paper](https://papers.miccai.org/miccai-2024/paper/1081_paper.pdf)]
 * Madeleine K. Wyburd, Nicola K. Dinsdale, Mark Jenkinson, and Ana IL Namburete. "Anatomically plausible segmentations: Explicitly preserving topology through prior deformations." MedIA'2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841524001476)]
 * Nina I. Shamsi, Alec S. Xu, Lars A. Gjesteby, and Laura J. Brattain. "Improved Topological Preservation in 3D Axon Segmentation and Centerline Detection using Geometric Assessment-driven Topological Smoothing (GATS)." WACV'2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shamsi_Improved_Topological_Preservation_in_3D_Axon_Segmentation_and_Centerline_Detection_WACV_2024_paper.pdf)]
+* Laurin Lux, Alexander H. Berger, Alexander Weers, Nico Stucki, Daniel Rueckert, Ulrich Bauer, Johannes C. Paetzold. "Topograph: An efficient Graph-Based Framework for Strictly Topology Preserving Image Segmentation". ICLR'25. [[Paper](https://arxiv.org/pdf/2411.03228)]
   
 ### Classification
 * Fan Wang, Saarthak Kapse, Steven Liu, Prateek Prasanna, and Chao Chen. "TopoTxR: a topological biomarker for predicting treatment response in breast cancer." MICCAI'2021. [[Paper](https://arxiv.org/pdf/2105.06049)]
