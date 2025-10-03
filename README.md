@@ -80,6 +80,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * Liu Li, Qiang Ma, Cheng Oyang, Johannes C. Paetzold, Daniel Rueckert, and Bernhard Kainz. "Topology Optimization in Medical Image Segmentation with Fast χ Euler Characteristic." TMI'2025.[[Paper](https://arxiv.org/pdf/2507.23763)]
 * Wittmann, Bastian and Wattenberg, Yannick and Amiranashvili, Tamaz and Shit, Suprosanna and Menze, Bjoern. "vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation." CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wittmann_vesselFM_A_Foundation_Model_for_Universal_3D_Blood_Vessel_Segmentation_CVPR_2025_paper.pdf)]
 * Ziwei Zhao and Zhixing Zhang and Yuhang Liu and Zhao Zhang and Haojun Yu and Dong Wang and Liwei Wang. "DeformCL: Learning Deformable Centerline Representation for Vessel Extraction in 3D Medical Image." CVPR'2025. [[Paper](https://arxiv.org/pdf/2506.05820v1)]
+* Meilong Xu and Xiaoling Hu and Shahira Abousamra and Chen Li and Chao Chen. "MATCH: Multi-faceted Adaptive Topo-Consistency for Semi-Supervised Histopathology Segmentation." NeurIPS'2025. [[Paper](https://arxiv.org/pdf/2510.01532)]
   
 ### Classification
 * Fan Wang, Saarthak Kapse, Steven Liu, Prateek Prasanna, and Chao Chen. "TopoTxR: a topological biomarker for predicting treatment response in breast cancer." MICCAI'2021. [[Paper](https://arxiv.org/pdf/2105.06049)]
