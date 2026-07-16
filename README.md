@@ -117,5 +117,7 @@ Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topolo
 * Theodore Papamarkou, Tolga Birdal, Michael Bronstein, Gunnar Carlsson, Justin Curry, Yue Gao, Mustafa Hajij et al. "Position: Topological Deep Learning is the New Frontier for Relational Learning." arXiv'2024. [[Paper](https://scholar9.com/publication/15b1964641a8fa968b2e1f5d42b5a8bf.pdf)]
 * Chia-Chia Chen, and Chi-Han Peng. "Topology-Preserving Downsampling of Binary Images." ECCV'2024. [[Paper](https://arxiv.org/pdf/2407.17786)]
 * Ilya Trofimov, Daria Voronkova, Eduard Tulchinskii, Evgeny Burnaev, and Serguei Barannikov. "Scalar Function Topology Divergence: Comparing Topology of 3D Objects." ECCV'2024. [[Paper](https://arxiv.org/pdf/2407.08364)]
+* Johannes Ferner, Stefan Huber, Saverio Messineo, Angel Pop, Martin Uray. "Persistence-based Hough Transform for line detection." iDSC'25. [[Paper](https://arxiv.org/pdf/2603.08245)].
+* Stefan Huber, Kristóf Huszár, Michael Kerber, Martin Uray. "Topologically Stable Hough Transform." EuroCG'26. [[Paper](https://arxiv.org/pdf/2603.08245)].
 
 Maintainers - [Xiaoling Hu](https://github.com/HuXiaoling)
