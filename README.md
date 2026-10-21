@@ -3,7 +3,7 @@
 A curated list of resources for topology-driven deep image analysis, inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topology-driven-image-analysis/pulls) or send me email (xihu3@mgh.harvard.edu) to contribute.
+Please feel free to [pull requests](https://github.com/HuXiaoling/awesome-topology-driven-image-analysis/pulls) or send me email (hxlhuxiaoling@gmail.com) to contribute.
 
 ## Table of Contents
 - [Books](#books)
